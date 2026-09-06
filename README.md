@@ -1,11 +1,10 @@
 # Security-4-Noobs
 Simple guide for setting up basic security measures and staying anonymous online
 
-# Passwords
-## Password general - 
+# Password general  
 When it comes to creating passwords for your accounts you need to use a password that is at least 13 characters long ( 16 is recommended ) using capital letters, numbers and symbols. Ideally this should be random but humans are really bad at coming up with true random passwords and even worse at remembering them that is why you should use a password manager. Depending on the importance of your passwords they should be changed about every 3-6 month.
   
-## Password Mangagers -
+## Password Mangagers 
 A password manager is like a vault where you can store and create passwords which means you only need to memorize 1 strong password to access all your other passwords. A few tricks to remeber this password is to split it up XXXX-XXXX-XXXX-XXXX and linking parts of the password to random items. Never include stuff like your birthday, pet name or adress.
 
 **Bitwarden** - Bitwarden works accros multiple devices and for its ease of use its highly recommended to use this for most users
@@ -29,14 +28,14 @@ IVPN setup
 **Proton VPN** ( free ) - Swiss based slower and has limited locations for free tier. Has a no log policy which has proven to be true but note that proton vpns sister product proton mail has shown to hand over data 
 Proton setup
 
-# Deep end -
+# Deep end 
 Most secure browsing - recommend to only use this when necessary for short sessions
 
-## Tor -
+## Tor 
 Tor is a slow browser that routes your traffic through other users which means its really secure but at the cost of speed. Note that entry node is still vulnerable which means using a bad vpn or public network would not completely hide your browsing.
 Tor download
 
-## Tails OS -
+## Tails OS 
 Tails OS is a operating system that runs using a USB drive and deletes itself when you turn it off or plug out the USB. 
 Tails links
 
