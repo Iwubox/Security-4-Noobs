@@ -2,7 +2,7 @@
 Simple guide for setting up basic security measures and staying anonymous online
 
 # Password general  
-When it comes to creating passwords for your accounts you need to use a password that is at least 13 characters long ( 16 is recommended ) using capital letters, numbers and symbols. Ideally this should be random but humans are really bad at coming up with true random passwords and even worse at remembering them that is why you should use a password manager that can create and store your passwords saftely. Depending on the importance of your passwords they should be changed about every 3-6 month
+When it comes to creating passwords for your accounts you need to use a password that is at least 13 characters long ( 16 is recommended ) using capital letters, numbers and symbols. Ideally this should be random but humans are really bad at coming up with true random passwords and even worse at remembering them that is why you should use a **password manager** that can create and store your passwords saftely. Depending on the importance of your passwords they should be changed about every 3-6 months
   
 ## Password Mangagers 
 A password manager is like a vault where you can store and create passwords which means you only need to memorize 1 strong password to access all your other passwords. A few tricks to remeber this password is to split it up XXXX-XXXX-XXXX-XXXX and linking parts of the password to random items. Never include stuff like your birthday, pet name or adress
@@ -10,11 +10,11 @@ A password manager is like a vault where you can store and create passwords whic
 **Bitwarden** - Bitwarden works across multiple devices and for its ease of use its highly recommended to use this for most users
 [Bitwarden setup]()
 
-**KeePass** - KeePass is fully local so that you don't need to trust anyone but way less convenient and not recommended for most users
+**KeePass** - KeePass is fully local and therefore the safest but that way less convenient and not recommended for most users
 [KeePass setup]()
   
 ## MFA
-MFA(Multi Factor Authentication) are alternative methods of verifying who you are alongside your password. The most common is verifying using your phone or mail but there are also things like fingerprint scan and eye scan. I recommend only using MFA or 2FA ( two factor authentication ) for important accounts such as your email, google and github
+MFA(Multi Factor Authentication) are alternative methods of verifying who you are alongside your password. The most common is verifying using your phone or mail but there are also things like fingerprint scan and eye scan. Its recommended to atleast use MFA or 2FA ( two factor authentication ) for important accounts such as your email, google and github and its one of the biggest security upgrades most users can do
 
 # VPNs
 A VPN(virtual private network) is used to anonymise device connections allowing you to hide your IP adress and location. VPNs also encrypt the connection between you and the VPN which protects you from public wifi and ISP risks. Essentially using a VPN means you are pushing your trust onto them which means its important to have a tested trustworthy VPN
@@ -26,7 +26,7 @@ A VPN(virtual private network) is used to anonymise device connections allowing 
 **IVPN** ( 6€/m ) - Based in Gibraltar IVPN just like mullvad requires no email and has a strict no log policy
 [IVPN setup]()
 
-**Proton VPN** ( free ) - Swiss based slower and has limited locations for free tier. Has a no log policy which has proven to be true but note that proton vpns sister product proton mail has shown to hand over data 
+**Proton VPN** ( free ) - Swiss based slower and has limited locations for free tier. Has a no log policy which has proven to be true but note that proton VPNs sister product proton mail has shown to hand over data 
 [Proton VPN setup]()
 
 #antivirus
