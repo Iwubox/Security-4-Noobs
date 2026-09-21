@@ -8,10 +8,10 @@ When it comes to creating passwords for your accounts you need to use a password
 A password manager is like a vault where you can store and create passwords which means you only need to memorize 1 strong password to access all your other passwords, a so called master password. A few tricks to remeber this master password is to split it up XXXX-XXXX-XXXX-XXXX and linking parts of the password to random items. Never include stuff like your birthday, pet name or adress
 
 **Bitwarden** - Bitwarden works across multiple devices and for its ease of use its highly recommended to use this for most users\
-[Bitwarden setup](/Security-4-Noobs/docs/Bitwarden-setup.md)
+[Bitwarden setup](/docs/Bitwarden-setup.md)
 
 **KeePass** - KeePass is fully local and therefore the safest but that way less convenient and not recommended for most users\
-[KeePass setup](/Security-4-Noobs/docs/KeePass%20setup.md)
+[KeePass setup](/docs/KeePass%20setup.md)
   
 ## MFA
 MFA(Multi Factor Authentication) or 2FA ( two factor authentication ) are alternative methods of verifying who you are alongside your password. The most common is verifying using your phone or mail but there are also more advanced methods like fingerprint scan, usb security key and location based MFA. **You need** to atleast use MFA for important accounts such as your email, google, github, steam, etc. 
@@ -30,13 +30,13 @@ A VPN(virtual private network) is used to anonymise device connections allowing 
 
 ## Best VPNs
 **Mullvad VPN** ( 5€/m ) - Mullvad is the gold standard when it comes to VPNs. Based in Sweden and of Swedish privacy values it has proven to have a no logs policy and almost all payment methods including mailing money are available which means nothing can be traced back to you\
-[Mullvad setup](/Security-4-Noobs/docs/Mullvad-setup.md)
+[Mullvad setup](/docs/Mullvad-setup.md)
 
 **IVPN** ( 6€/m ) - Based in Gibraltar IVPN just like mullvad requires no email and has a strict no log policy\
-[IVPN setup](/Security-4-Noobs/docs/IVPN-setup.md)
+[IVPN setup](/docs/IVPN-setup.md)
 
 **Proton VPN** ( free ) - Swiss based slower and has limited locations for free tier. Has a no log policy which has proven to be true but note that proton VPNs sister product proton mail has shown to hand over data\
-[Proton VPN setup](/Security-4-Noobs/docs/Proton-VPN-setup.md)
+[Proton VPN setup](/docs/Proton-VPN-setup.md)
 
 # antivirus
 **Malwarebytes** ( free ) - Simple free antivirus scan recommended for most windows users but requires a 3.75€/m payment for real-time/background protection\
@@ -51,7 +51,7 @@ A VPN(virtual private network) is used to anonymise device connections allowing 
 # Operating System
 A operating system, OS for short is the system your computer uses to run and switching can be good if you want a system that is more secure, privacy focused and **where you are in control**. Now its important to note that using swithcing and using a another OS is not hard\
 
-[Simple Linux start](/Security-4-Noobs/docs/Simple-Linux-Start.md)
+[Simple Linux start](/docs/Simple-Linux-Start.md)
 
 # Deep end 
 Most secure browsing - recommend to only use when necessary for short sessions
